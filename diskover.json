@@ -8,7 +8,7 @@
     },
     "pkgs": [
         "python3",
-        "py37-pip"
+        "py37-pip",
         "git",
         "py37-scandir",
         "py37-rq",

@@ -4,7 +4,7 @@
     "artifact": "https://github.com/ConorBeh/iocage-plugin-diskover.git",
     "properties": {
         "nat": 1,
-        "nat_forwards": "tcp(8000:8000)"
+        "nat_forwards": "tcp(80:8000)"
     },
     "pkgs": [
         "python3",
